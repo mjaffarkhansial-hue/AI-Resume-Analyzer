@@ -1,3 +1,6 @@
+# AI-Resume-Analyzer
+AI Resume Analyzer and Job Matcher using Python and Streamlit
+
 # AI Resume Analyzer and Job Matcher
 
 A beginner-friendly, free, local web application built with Python and Streamlit. It compares a resume with a target job description, detects skills, estimates text similarity, highlights skills not detected in the resume, and creates practical improvement suggestions.
